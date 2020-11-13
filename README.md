@@ -2,6 +2,11 @@
 
 Proof of concept to explore and benchmark how to deposit funds from a CEX to a L2 wallet without the need to have a L1 wallet.
 
+Combines ideas from:
+- https://github.com/ricmoo/will-o-the-wisp
+- https://github.com/0age/metamorphic
+- https://github.com/optionality/clone-factory
+
 We consider 3 options:
 
 **The permanent forwarder:** 
